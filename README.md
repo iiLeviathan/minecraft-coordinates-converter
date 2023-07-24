@@ -1,6 +1,6 @@
 <html>
 
-<h1>Minecraft Coordinates Conversor: </h1>
+<h1>Minecraft Coordinates Converter: </h1>
 <h3>Minecraft conversor between:</h3></br>Overworld -> Nether 🔥 </br> Nether -> Overworld 🌎</h4>
 <h6>I know it's kinda boring to calculate your coordinates, you have to write down your actual coordinates, divide or multiply each of them by 8</br>and then write down
 AGAIN each of them so you wont forget... Easy job, but it's such a waste of time, isn't it??  </h6>
