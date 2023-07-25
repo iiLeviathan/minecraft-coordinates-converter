@@ -32,9 +32,9 @@ def tipo():
 
 def nova_coordenada(x2, z2, y2, x3, z3, y3, tipo):
     if tipo == 1:
-        print(f"Your new coordinates are: \nX: {x2}\nZ: {z2}\nY: {y2}")
+        print(f"Your new coordinates are: \nX: {x2:.0f}\nZ: {z2:.0f}\nY: {y2:.0f}")
     elif tipo == 2:
-        print(f"Your new coordinates are: \nX: {x3}\nZ: {z3}\nY: {y3}")
+        print(f"Your new coordinates are: \nX: {x3:.0f}\nZ: {z3:.0f}\nY: {y3:.0f}")
 
 
 def main():
